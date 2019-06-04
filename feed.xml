@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>server</title>
+    <description>CUK CS lab homepage</description>
+    <link>http://cukcslab.github.io/server/</link>
+    <atom:link href="http://cukcslab.github.io/server/feed.xml" rel="self" type="application/rss+xml"/>
+    <pubDate>Wed, 05 Jun 2019 04:21:24 +0900</pubDate>
+    <lastBuildDate>Wed, 05 Jun 2019 04:21:24 +0900</lastBuildDate>
+    <generator>Jekyll v3.6.2</generator>
+    
+      <item>
+        <title>fileshare</title>
+        <description>&lt;p&gt;created fileserver with upload facility&lt;/p&gt;
+</description>
+        <pubDate>Sun, 02 Jun 2019 01:39:18 +0900</pubDate>
+        <link>http://cukcslab.github.io/server/blog/2019/fileserver/</link>
+        <guid isPermaLink="true">http://cukcslab.github.io/server/blog/2019/fileserver/</guid>
+        
+        <category>welcome</category>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+      <item>
+        <title>testing post</title>
+        <description>&lt;h2&gt;Header Level 2&lt;/h2&gt;
+
+&lt;ol&gt;
+  &lt;li&gt;Lorem ipsum dolor sit amet, consectetuer adipiscing elit.&lt;/li&gt;
+  &lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;h4&gt;Header Level 4&lt;/h4&gt;
+
+&lt;h5&gt;Header Level 5&lt;/h5&gt;
+
+&lt;h6&gt;Header Level 6&lt;/h6&gt;
+
+&lt;pre&gt;&lt;code class=&quot;language-css&quot;&gt;#header h1 a {
+  display: block;
+  width: 300px;
+  height: 80px;
+}
+&lt;/code&gt;&lt;/pre&gt;
+</description>
+        <pubDate>Fri, 13 Nov 2015 04:19:43 +0900</pubDate>
+        <link>http://cukcslab.github.io/server/blog/2015/test/</link>
+        <guid isPermaLink="true">http://cukcslab.github.io/server/blog/2015/test/</guid>
+        
+        
+        <category>welcome</category>
+        
+      </item>
+    
+  </channel>
+</rss>
